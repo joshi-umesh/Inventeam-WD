@@ -22,7 +22,7 @@
 - Address and registration identifiers have been included as supplied by the project owner; verify them before launch.
 - No claims about certifications, quality systems, capacity, delivery times, customer base, or export destinations have been invented.
 - Product range follows the reference catalogue while excluding the owner-prohibited category. Mineral items are shown conservatively; Royal Industries should confirm the final catalogue and trade direction before launch.
-- Remote demo imagery uses Unsplash URLs as visual placeholders. The Pulses & Dry Fruits card now uses the owner-provided image at `assets/pulses-dry-fruits.webp`. Confirm the rights of all assets and final selection before production.
+- Remote demo imagery uses Unsplash URLs as visual placeholders. The Pulses & Dry Fruits card uses the owner-provided image at `assets/pulses-dry-fruits.webp`. The supplied Royal Industries logo has had its white background removed and is stored at `assets/royal-industries-logo.webp`. Confirm rights for all assets before production.
 - These HTML files are design prototypes. The Vercel URLs above are temporary review previews, not approval to launch a production website.
 
 ## Before production
