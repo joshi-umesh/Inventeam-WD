@@ -31,10 +31,11 @@
     {
       "id": "ri.products.pulses-dry-fruits",
       "role": "product-card",
-      "source_type": "remote-demo-image",
-      "source_url": "https://images.unsplash.com/photo-1515543904379-3d75740a6f1e?auto=format&fit=crop&w=800&q=80",
-      "alt": "Pulses and dry fruits",
-      "license_review": "not completed"
+      "source_type": "owner-provided-image",
+      "source_url": "assets/pulses-dry-fruits.webp",
+      "alt": "Assorted pulses, legumes, nuts and dried fruits displayed in burlap sacks and bowls",
+      "license_review": "provided by project owner; confirm rights before production",
+      "usage_note": "Owner-selected image used for the Pulses & Dry Fruits product card."
     },
     {
       "id": "ri.products.rice",
