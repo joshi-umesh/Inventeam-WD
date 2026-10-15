@@ -4,6 +4,15 @@
   "review_required_before_production": true,
   "assets": [
     {
+      "id": "ri.brand.logo",
+      "role": "brand-logo",
+      "source_type": "owner-provided-logo-with-background-removed",
+      "source_url": "assets/royal-industries-logo.webp",
+      "alt": "Royal Industries logo in navy blue and gold",
+      "license_review": "provided by project owner; confirm rights before production",
+      "usage_note": "White background removed; transparent WebP used in website navigation. Retain original source separately."
+    },
+    {
       "id": "ri.hero.produce",
       "role": "hero",
       "source_type": "remote-demo-image",
