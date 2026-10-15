@@ -11,7 +11,7 @@
 - [Option A — Global Trade](option-a.html): corporate, structured, premium trade presentation.
 - [Option B — Origin & Opportunity](option-b.html): warm, editorial, founder-led presentation.
 - [Compare both concepts](index.html): chooser page.
-- [Asset manifest](asset-manifest.json): remote demo imagery and licence review flags.
+- [Asset manifest](asset-manifest.json): records demo imagery and the owner-provided Pulses & Dry Fruits image.
 
 ## Scope and guardrails
 
@@ -22,7 +22,7 @@
 - Address and registration identifiers have been included as supplied by the project owner; verify them before launch.
 - No claims about certifications, quality systems, capacity, delivery times, customer base, or export destinations have been invented.
 - Product range follows the reference catalogue while excluding the owner-prohibited category. Mineral items are shown conservatively; Royal Industries should confirm the final catalogue and trade direction before launch.
-- Remote demo imagery uses Unsplash URLs as visual placeholders. Confirm image licensing, source availability, final selection, alt text, and asset provenance before production.
+- Remote demo imagery uses Unsplash URLs as visual placeholders. The Pulses & Dry Fruits card now uses the owner-provided image at `assets/pulses-dry-fruits.webp`. Confirm the rights of all assets and final selection before production.
 - These HTML files are design prototypes. The Vercel URLs above are temporary review previews, not approval to launch a production website.
 
 ## Before production
