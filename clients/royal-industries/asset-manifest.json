@@ -1,0 +1,57 @@
+{
+  "project": "royal-industries",
+  "status": "poc-placeholder-assets",
+  "review_required_before_production": true,
+  "assets": [
+    {
+      "id": "ri.hero.produce",
+      "role": "hero",
+      "source_type": "remote-demo-image",
+      "source_url": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=1200&q=85",
+      "alt": "Fresh produce at a market",
+      "license_review": "not completed",
+      "usage_note": "Visual placeholder only. Confirm image source, applicable terms, and replacement or approval before launch."
+    },
+    {
+      "id": "ri.products.fresh-fruits",
+      "role": "product-card",
+      "source_type": "remote-demo-image",
+      "source_url": "https://images.unsplash.com/photo-1610832958506-aa56368176cf?auto=format&fit=crop&w=800&q=80",
+      "alt": "Fresh fruits",
+      "license_review": "not completed"
+    },
+    {
+      "id": "ri.products.spices",
+      "role": "product-card",
+      "source_type": "remote-demo-image",
+      "source_url": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=800&q=80",
+      "alt": "Spices",
+      "license_review": "not completed"
+    },
+    {
+      "id": "ri.products.pulses-dry-fruits",
+      "role": "product-card",
+      "source_type": "remote-demo-image",
+      "source_url": "https://images.unsplash.com/photo-1515543904379-3d75740a6f1e?auto=format&fit=crop&w=800&q=80",
+      "alt": "Pulses and dry fruits",
+      "license_review": "not completed"
+    },
+    {
+      "id": "ri.products.rice",
+      "role": "product-card",
+      "source_type": "remote-demo-image",
+      "source_url": "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=800&q=80",
+      "alt": "Rice",
+      "license_review": "not completed"
+    },
+    {
+      "id": "ri.products.minerals",
+      "role": "product-card",
+      "source_type": "remote-demo-image",
+      "source_url": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+      "alt": "Mineral textures",
+      "license_review": "not completed",
+      "usage_note": "Generic texture only; replace with product-specific approved photography if this category is retained."
+    }
+  ]
+}
