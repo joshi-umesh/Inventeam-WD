@@ -18,5 +18,8 @@ Each project should have its own directory under `clients/<client-name>/`, inclu
 
 ### Royal Industries
 
-Royal Industries is an Inventeam project. Its existing POC was created in the private UJWD repository branch `poc/royal-industries-options`; it is being migrated here so Inventeam-owned client work remains in the Inventeam repository. Keep it clearly marked as a draft/POC until approved.
+Royal Industries is an Inventeam project. Its POC files are now stored at [clients/royal-industries](https://github.com/joshi-umesh/Inventeam-WD/tree/main/clients/royal-industries). The project remains a draft/POC until approved.
 
+Temporary review previews:
+- [Option A — Global Trade](https://royal-industries-option-a.vercel.app)
+- [Option B — Origin & Opportunity](https://royal-industries-option-b.vercel.app)
